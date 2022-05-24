@@ -1,0 +1,79 @@
+{
+  "contacts": [
+    {
+      "firstname": "shaik",
+      "lastname": "faruki",
+      "email": "faruki@gmail.com",
+      "homeNo": "7894561230",
+      "workNo": "9518476230",
+      "birthdate": "1995-01-01",
+      "company": "business",
+      "jobTitle": "owner",
+      "notes": "",
+      "id": 1
+    },
+    {
+      "firstname": "Shaik",
+      "lastname": "Reshma",
+      "email": "shaikreshma21082000@gmail.com",
+      "homeNo": "7036865483",
+      "workNo": "9059165245",
+      "birthdate": "1999-08-21",
+      "company": "tcs",
+      "jobTitle": "developer",
+      "notes": "Friend from school",
+      "id": 2
+    },
+    {
+      "firstname": "Shaik",
+      "lastname": "Reshma",
+      "email": "shaikreshma21082000@gmail.com",
+      "homeNo": "7036865483",
+      "workNo": "9059165245",
+      "birthdate": "1999-08-21",
+      "company": "",
+      "jobTitle": "",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "firstname": "Nallamothu",
+      "lastname": "Puja",
+      "email": "puja@gmail.com",
+      "homeNo": "8523697410",
+      "workNo": "9441804152",
+      "birthdate": "1999-03-02",
+      "company": "jio",
+      "jobTitle": "developer",
+      "notes": "bestiee from college",
+      "id": 4
+    },
+    {
+      "firstname": "Anugnya",
+      "lastname": "kandunuri",
+      "email": "anu@gmail.com",
+      "homeNo": "9866595850",
+      "workNo": "9518476230",
+      "birthdate": "1999-11-10",
+      "company": "wipro",
+      "jobTitle": "student",
+      "notes": "frnd from inter",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "firstname": "Swapna",
+      "lastname": "Akash",
+      "email": "swapna@gmail.com",
+      "homeNo": "7894561230",
+      "workNo": "9441804152",
+      "birthdate": "1996-02-09",
+      "company": "tcs",
+      "jobTitle": "developer",
+      "notes": "my working frnd",
+      "id": 7
+    }
+  ]
+}
